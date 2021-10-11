@@ -1,0 +1,107 @@
+{
+  "allItems": [
+    {
+      "title": "Мужские Кроссовки Puma Future Rider Convey",
+      "srcImg": "img/sneakers/snkr2.png",
+      "price": 3980,
+      "id": "1"
+    },
+    {
+      "title": "Мужские Кроссовки Nike Air Max 270",
+      "srcImg": "img/sneakers/snkr3.png",
+      "price": 7799,
+      "id": "2"
+    },
+    {
+      "title": "Мужские Кроссовки Adidas 4D FUSIO",
+      "srcImg": "img/sneakers/snkr4.png",
+      "price": 7649,
+      "id": "3"
+    },
+    {
+      "title": "Мужские Кроссовки Asics Japan S 'Country Pack'",
+      "srcImg": "img/sneakers/snkr1.png",
+      "price": 3990,
+      "id": "4"
+    },
+    {
+      "title": "Кроссовки Air Jordan Delta Mid 'Storm Blue'",
+      "srcImg": "img/sneakers/snkr5.png",
+      "price": 11892,
+      "id": "5"
+    },
+    {
+      "title": "Мужские кроссовки Nike Blazer Low '77 Vintage",
+      "srcImg": "img/sneakers/snkr6.png",
+      "price": 5699,
+      "id": "6"
+    },
+    {
+      "title": "Мужские кроссовки Nike Air Force 1 '07",
+      "srcImg": "img/sneakers/snkr7.png",
+      "price": 8999,
+      "id": "7"
+    },
+    {
+      "title": "Мужские кроссовки PUMA Mirage Sport",
+      "srcImg": "img/sneakers/snkr8.png",
+      "price": 9999,
+      "id": "8"
+    }
+  ],
+  "cartItems": [],
+  "favoritesItems": [],
+  "orders": [
+    {
+      "id": 4,
+      "ordersItems": [
+        {
+          "title": "Мужские Кроссовки Puma Future Rider Convey",
+          "srcImg": "img/sneakers/snkr2.png",
+          "price": 3980,
+          "id": "1"
+        },
+        {
+          "title": "Мужские Кроссовки Nike Air Max 270",
+          "srcImg": "img/sneakers/snkr3.png",
+          "price": 7799,
+          "id": "2"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "ordersItems": [
+        {
+          "title": "Мужские Кроссовки Adidas 4D FUSIO",
+          "srcImg": "img/sneakers/snkr4.png",
+          "price": 7649,
+          "id": "3"
+        },
+        {
+          "title": "Мужские кроссовки Nike Air Force 1 '07",
+          "srcImg": "img/sneakers/snkr7.png",
+          "price": 8999,
+          "id": "7"
+        },
+        {
+          "title": "Мужские кроссовки Nike Blazer Low '77 Vintage",
+          "srcImg": "img/sneakers/snkr6.png",
+          "price": 5699,
+          "id": "6"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "ordersItems": [
+        {
+          "title": "Мужские Кроссовки Puma Future Rider Convey",
+          "srcImg": "img/sneakers/snkr2.png",
+          "price": 3980,
+          "id": "1"
+        }
+      ]
+    }
+  ]
+}

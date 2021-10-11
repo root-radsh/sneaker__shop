@@ -1,0 +1,64 @@
+.content {
+  margin: 30px;
+
+  h1 {
+    font-size: 32px;
+    font-weight: 700;
+  }
+
+  .content__header {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+
+    .searchWrapper {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+
+      .searchBlock {
+        display: flex;
+        align-items: center;
+        width: 250px;
+        height: 45px;
+        border: 1px solid #F3F3F3;
+        border-radius: 10px;
+        overflow: hidden;
+        padding: 0 15px;
+
+        img {
+          margin-right: 10px;
+        }
+
+        input {
+          width: 190px;
+          font-size: 16px;
+
+          &::placeholder {
+            color: #C4C4C4;
+          }
+        }
+
+      }
+
+      h2 {
+        font-size: 20px;
+        font-weight: bold;
+        margin-top: 20px;
+      }
+    }
+
+  }
+
+  .content__sneakers {
+    display: flex;
+    padding: 10px 50px;
+    justify-content: space-between;
+    flex-wrap: wrap;
+
+  }
+
+
+}

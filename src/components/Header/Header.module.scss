@@ -1,0 +1,58 @@
+.headerBlock {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  padding: 30px;
+  border-bottom: 1px solid #EAEAEA;
+
+  .header__left {
+    display: flex;
+    align-items: center;
+
+    .header__left__info {
+      h2 {
+        font-size: 20px;
+        font-weight: 700;
+      }
+
+      p {
+        opacity: 0.5;
+      }
+    }
+
+    img {
+      margin-right: 15px;
+    }
+  }
+
+  .header__right {
+    display: flex;
+    justify-content: space-between;
+
+    .addToCard {
+      span {
+        cursor: pointer;
+      }
+    }
+
+    li {
+      display: flex;
+      align-items: center;
+      margin-right: 15px;
+
+      .header__right__card {
+        cursor: pointer;
+        margin-right: 8px;
+      }
+
+      .wishListIcon {
+        cursor: pointer;
+      }
+
+      .userIcon {
+        cursor: pointer;
+      }
+    }
+
+  }
+}

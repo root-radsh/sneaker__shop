@@ -1,3 +1,3 @@
-# &\1F45F; Sheaker Shop
+# 👟 Sheaker Shop
 
 Sneaker shop on React
